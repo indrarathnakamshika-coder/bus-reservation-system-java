@@ -38,7 +38,7 @@ java BusReservationSystem
 ```
 
 ## 📸 Screenshot
-
+![Reservation System Demo](Screenshots/reservation_demo.png)
 
 ## 🔖 License
 MIT License
